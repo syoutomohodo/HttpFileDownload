@@ -1,6 +1,6 @@
 #coding:utf-8
 
-#根据url解析得到的path, host构造一个Http请求包
+#根据url解析得到的path, host构造Http请求包
 
 from analysisUrl import path, host
 
