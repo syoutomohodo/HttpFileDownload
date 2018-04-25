@@ -1,8 +1,11 @@
 # HttpFileDownload
-## 环境
-windows/Linux + python2.7.x
+
 ## 项目介绍
-本项目的目的是使用Python编写一个http下载器，并生成（*.exe可执行文件）。
+本项目使用Python编写http下载器。
+
+## Version 01
+### 环境
+windows/Linux + python2.7.x
 ### 实现单线程下载
 1. 解析URL；
 2. 连接web服务器；
@@ -39,7 +42,7 @@ py2exe将python脚本转换成windows上的可独立执行的可执行程序
 执行命令：**Python mysetup.py py2exe**.
 生成dist文件夹，multiThreadDownload.exe于该文件夹中，点击运行即可执行。
 
-
+## Version 02
 
 
 
