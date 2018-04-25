@@ -3,6 +3,10 @@
 ## 项目介绍
 本项目使用Python编写http下载器。
 
+
+## Version 02
+
+
 ## Version 01
 ### 环境
 windows/Linux + python2.7.x
@@ -42,7 +46,6 @@ py2exe将python脚本转换成windows上的可独立执行的可执行程序
 执行命令：**Python mysetup.py py2exe**.
 生成dist文件夹，multiThreadDownload.exe于该文件夹中，点击运行即可执行。
 
-## Version 02
 
 
 
